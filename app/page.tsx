@@ -1,7 +1,7 @@
-import items from "@/utile/types/data/items.json";
+import items from "@/components/hanout/card.json";
 import Cards from "@/components/Cards";
 import Hanout from "@/components/hanout";
-import type { CardItem } from "@/utile/types/file";
+import type { CardItem } from "@/utile/types/interfaces";
 
 export default function Home() {
   return (
