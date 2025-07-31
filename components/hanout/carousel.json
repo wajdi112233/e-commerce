@@ -1,0 +1,12 @@
+[
+    { "id":1,"src": "/honey.png", "alt": "honey", "title": "Honey", "oldPrice": "$115.00", "price": "$92.00" },
+    { "id":2,"src": "/images (1).jpg", "alt": "Alee Hand Towel", "title": "Alee Hand Towel", "oldPrice": "$45.00", "price": "$36.00" },
+    { "id":3,"src": "/images (2).jpg", "alt": "Alley Wool Rug", "title": "Alley Wool Rug", "oldPrice": "$739.00", "price": "$428.00" },
+    { "id":4,"src": "/images (3).jpg", "alt": "Alley Wool Rug", "title": "Alley Wool Rug", "oldPrice": "$739.00", "price": "$428.00" },
+    { "id":5,"src": "/images (4).jpg", "alt": "Alley Wool Rug", "title": "Alley Wool Rug", "oldPrice": "$739.00", "price": "$428.00" },
+    { "id":6,"src": "/images.jpg", "alt": "Alley Wool Rug", "title": "Alley Wool Rug", "oldPrice": "$739.00", "price": "$428.00" },
+    { "id":7,"src": "/images.png", "alt": "Alley Wool Rug", "title": "Alley Wool Rug", "oldPrice": "$739.00", "price": "$428.00" },
+    { "id":8,"src": "juice.jpg", "alt": "Alley Wool Rug", "title": "Alley Wool Rug", "oldPrice": "$739.00", "price": "$428.00" },
+    { "id":9,"src": "téléchargement (1).jpg", "alt": "Alley Wool Rug", "title": "Alley Wool Rug", "oldPrice": "$739.00", "price": "$428.00" },
+    { "id":10,"src": "téléchargement.jpg", "alt": "Alley Wool Rug", "title": "Alley Wool Rug", "oldPrice": "$739.00", "price": "$428.00" }
+]
