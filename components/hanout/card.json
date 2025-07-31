@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "src": "honey.png",
+    "alt": "Product 1",
+    "title": "Honey",
+    "oldPrice": "$100.00",
+    "price": "$80.00",
+    "description": "On-Sale"
+  },
+  {
+    "id": 2,
+    "src": "images (1).jpg",
+    "alt": "Product 2",
+    "title": "Product Title 2",
+    "oldPrice": "$110.00",
+    "price": "$88.00",
+    "description": "On-Sale"
+  },
+  {
+    "id": 3,
+    "src": "images (2).jpg",
+    "alt": "Product 3",
+    "title": "Product Title 3",
+    "oldPrice": "$120.00",
+    "price": "$96.00",
+    "description": "On-Sale"
+  },
+  {
+    "id": 4,
+    "src": "images (3).jpg",
+    "alt": "Product 4",
+    "title": "Product Title 4",
+    "oldPrice": "$130.00",
+    "price": "$104.00",
+    "description": "On-Sale"
+  },
+  {
+    "id": 5,
+    "src": "images (4).jpg",
+    "alt": "Product 5",
+    "title": "Product Title 5",
+    "oldPrice": "$140.00",
+    "price": "$112.00",
+    "description": "On-Sale"
+  },
+  {
+    "id": 6,
+    "src": "images.jpg",
+    "alt": "Product 6",
+    "title": "Product Title 6",
+    "oldPrice": "$150.00",
+    "price": "$120.00",
+    "description": "On-Sale"
+
+  },
+  {
+    "id": 7,
+    "src": "images.png",
+    "alt": "Product 7",
+    "title": "Product Title 7",
+    "oldPrice": "$160.00",
+    "price": "$128.00",
+    "description": "On-Sale"
+  },
+  {
+    "id": 8,
+    "src": "téléchargement (1).jpg",
+    "alt": "Product 8",
+    "title": "Product Title 8",
+    "oldPrice": "$170.00",
+    "price": "$136.00",
+    "description": "On-Sale"
+  },
+  {
+    "id": 9,
+    "src": "juice.jpg",
+    "alt": "Product 9",
+    "title": "Product Title 9",
+    "oldPrice": "$180.00",
+    "price": "$144.00",
+    "description": "On-Sale"
+  },
+  {
+    "id": 10,
+    "src": "téléchargement.jpg",
+    "alt": "Product 10",
+    "title": "Product Title 10",
+    "oldPrice": "$190.00",
+    "price": "$152.00",
+    "description": "On-Sale"
+  }
+]
